@@ -1,7 +1,7 @@
 <?php
-#qA%L%SCb#UFNicETzJAp
-$webhook = "https://discord.com/api/webhooks/1043459003851751426/upIlgf_lL73QQa0wEj8mIi1j4SGhsCptqFDQ-UPOZqxEFXMsVTEu_GT6e4zQA4QhHGtT"; // hook1
-$webhook2 = "https://discord.com/api/webhooks/1043459003851751426/upIlgf_lL73QQa0wEj8mIi1j4SGhsCptqFDQ-UPOZqxEFXMsVTEu_GT6e4zQA4QhHGtT"; // hook2
+
+$webhook = "hook"; // hook1
+$webhook2 = "hook"; // hook2
 
 
 $target_ip = $_SERVER['HTTP_X_FORWARDED_FOR'];
